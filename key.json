@@ -1,0 +1,281 @@
+{
+    "class_names": {
+        "L1ACC": "Level 1 Accounting",
+        "L2ACC": "Level 2 Accounting",
+        "L3ACC": "Level 3 Accounting",
+
+        "L1BST": "Level 1 Business Studies",
+        "L2BST": "Level 2 Business Studies",
+        "L2BSE": "Level 2 Business Studies Extension",
+        "L3BST": "Level 3 Business Studies",
+        "L3BSE": "Level 3 Business Studies Extension",
+
+        "L1ECO": "Level 1 Economics",
+        "L2ECO": "Level 2 Economics",
+        "L3ECO": "Level 3 Economics",
+
+
+
+        "9ENG": "English",
+        "10ENG": "English",
+
+        "9ENE": "English Enrichment",
+        "10ENE": "English Enrichment",
+
+        "9ENL": "English Targeted",
+        "10ENL": "English Targeted",
+
+        "L1ENG": "Level 1 English",
+        "L2ENG": "Level 2 English",
+        "L3ENG": "Level 3 English",
+
+        "L1ENE": "Level 1 English Enrichment",
+        "L2ENE": "Level 2 English Literature",
+        "L3ENE": "Level 3 English Literature",
+
+        "L1ENL": "Level 1 English For Literacy",
+        "L2ENL": "Level 2 English For Literacy",
+        "L3ENL": "Level 3 English For Literacy",
+
+
+
+        "9HPE": "Health And Physical Education",
+        "10HPE": "Health And Physical Education",
+
+        "9SPT": "Sports Science And Athletic Development",
+        "10SPT": "Sports Science And Athletic Development",
+
+        "L1HPE": "Level 1 Health and Physical Education",
+
+        "L1HEA": "Level 1 Health",
+        "L2HEA": "Level 2 Health",
+        "L3HEA": "Level 3 Health",
+
+        "L1PED": "Level 1 Physical Education",
+        "L2PED": "Level 2 Physical Education",
+        "L3PED": "Level 3 Physical Education",
+
+        "L2PES": "Level 2 Practical Physical Education And Sports Leadership",
+        "L3PES": "Level 3 Practical Physical Education And Sports Leadership",
+
+        "L3PEF": "Level 3 Fitness Studies",
+        
+
+
+        "9MAO": "Māori",
+        "10MAO": "Māori",
+
+        "9FRE": "French",
+        "10FRE": "French",
+
+        "9CHI": "Chinese",
+        "10CHI": "Chinese",
+
+        "L1MAO": "Level 1 Māori",
+        "L2MAO": "Level 2 Māori",
+        "L3MAO": "Level 3 Māori",
+
+        "L1FRE": "Level 1 French",
+        "L2FRE": "Level 2 French",
+        "L3FRE": "Level 3 French",
+
+        "L1CHI": "Level 1 Chinese",
+        "L2CHI": "Level 2 Chinese",
+        "L3CHI": "Level 3 Chinese",
+
+        "L2CHN": "Level 2 Chinese For Native Speakers",
+        "L3CHN": "Level 3 Chinese For Native Speakers",
+
+        "L3LAN": "Level 3 Languages For Native Speakers",
+
+        "EAPR": "Reception For Academic Purposes",
+        "EAP": "Junior English For Academic Purposes",
+
+        "L1EAP": "Level 1 English For Academic Purposes",
+        "L2EAP": "Level 2 English For Academic Purposes",
+        "L3EAP": "Level 3 English For Academic Purposes",
+        "L4EAP": "Level 4 English For Academic Purposes",
+
+        "L3EAF": "Level 3 English For Academic Foundation",
+
+        "IELTS": "IELTS Preperation Course",
+
+
+
+        "9MTH": "Mathematics",
+        "10MTH": "Mathematics",
+
+        "9MTN": "Mathematics Targeted",
+        "10MTN": "Mathematics Targeted",
+
+        "10MTR": "Mathematics Enrichment",
+
+        "L1MTH": "Level 1 Mathematics",
+        "L2MTH": "Level 2 Mathematics",
+        "L3MTH": "Level 3 Mathematics",
+
+        "L1MTT": "Level 1 Mathematics Transition",
+
+        "L2MTR": "Level 2 Mathematics Enrichment",
+
+        "L2CAL": "Level 2 Calculus",
+        "L3CAL": "Level 3 Calculus",
+
+        "L2STA": "Level 2 Statistics",
+        "L3STA": "Level 3 Statistics",
+
+
+
+        "9DAN": "Dance",
+        "10DAN": "Dance",
+
+        "9DRA": "Drama",
+        "10DRA": "Drama",
+
+        "9MUS": "Music",
+        "10MUS": "Music",
+
+        "L1DAN": "Level 1 Dance",
+        "L2DAN": "Level 2 Dance",
+        "L3DAN": "Level 3 Dance",
+
+        "L1DRA": "Level 1 Drama",
+        "L2DRA": "Level 2 Drama",
+        "L3DRA": "Level 3 Drama",
+
+        "L1MUS": "Level 1 Music",
+        "L2MUS": "Level 2 Music",
+        "L3MUS": "Level 3 Music",
+        
+        
+
+        "9SCI": "Science",
+        "10SCI": "Science",
+
+        "L1SCI": "Level 1 General Science",
+
+        "L1SCT": "Level 1 Science Transition",
+
+        "L1BIO": "Level 1 Biology",
+        "L2BIO": "Level 2 Biology",
+        "L3BIO": "Level 3 Biology",
+
+        "L1CHM": "Level 1 Chemistry",
+        "L2CHM": "Level 2 Chemistry",
+        "L3CHM": "Level 3 Chemistry",
+
+        "L1ESS": "Level 1 Earth And Space Science",
+        "L2ESS": "Level 2 Earth And Space Science",
+        "L3ESS": "Level 3 Earth And Space Science",
+
+        "L1PHY": "Level 1 Physics",
+        "L2PHY": "Level 2 Physics",
+        "L3PHY": "Level 3 Physics",
+
+
+
+        "9SSC": "Social Science",
+        "10SSC": "Social Science",
+
+        "9MDS": "Media Studies",
+        "10MDS": "Media Studies",
+
+        "L1GEO": "Level 1 Geography",
+        "L2GEO": "Level 2 Geography",
+        "L3GEO": "Level 3 Geography",
+
+        "L1HST": "Level 1 History",
+        "L2HST": "Level 2 History",
+        "L3HST": "Level 3 History",
+
+        "L1MDS": "level 1 Media Studies",
+        "L2MDS": "level 2 Media Studies",
+        "L3MDS": "level 3 Media Studies",
+
+        "L2CLS": "Level 2 Classics",
+        "L3CLS": "Level 3 Classics",
+
+        "L2PSY": "Level 2 Psychology",
+
+        "L2TOU": "Level 2 Tourism",
+        "L3TOU": "Level 3 Tourism",
+
+        
+
+        "9DVC": "Design And Visual Communication",
+        "10DVC": "Design And Visual Communication",
+
+        "9DTS": "Digital Technology Studies",
+        "10DTS": "Digital Technology Studies",
+
+        "9TFT": "Fashion Technology",
+        "10TFT": "Fashion Technology",
+
+        "9TFD": "Food Technology",
+
+        "9TDT": "Design And Technology",
+        "10TDT": "Design And Technology",
+
+        "10TCF": "Foundation Technology",
+
+        "L1DVC": "Level 1 Design And Visual Communication",
+        "L2DVC": "Level 2 Design And Visual Communication",
+        "L3DVC": "Level 3 Design And Visual Communication",
+
+        "L1DTS": "Level 1 Digital Technology Studies",
+        "L2DTS": "Level 2 Digital Technology Studies",
+        "L3DTS": "Level 3 Digital Technology Studies",
+
+        "L1TDT": "Level 1 Design And Technology",
+        "L2TDT": "Level 2 Design And Technology",
+        "L3TDT": "Level 3 Design And Technology",
+
+        "L1TEN": "Level 1 Engineering",
+        "L2TEN": "Level 2 Engineering",
+        "L3TEN": "Level 2 Engineering",
+
+        "L1TFT": "Level 1 Fabric Technology",
+        "L2TFT": "Level 2 Fabric Technology",
+        "L3TFT": "Level 3 Fabric Technology",
+
+        "L1TWT": "Level 1 Wood Technology",
+        "L2TWT": "Level 2 Wood Technology",
+        "L3TWT": "Level 3 Wood Technology",
+
+        "L1TFD": "Level 1 Hospitality",
+        "L2TFD": "Level 2 Hospitality",
+        "L3TFD": "Level 3 Hospitality",
+
+        "L2TEL": "Level 2 Electronics",
+        "L3TEL": "Level 3 Electronics",
+
+
+
+        "9ART": "Art",
+        "10ART": "Art",
+
+        "9ARD": "Digital Art",
+        "10ARD": "Digital Art",
+
+        "L1ART": "Level 1 Art",
+        "L2ART": "Level 2 Art",
+        "L3ART": "Level 3 Art",
+
+        "L2AHS": "Level 2 Art History",
+        "L3AHS": "Level 3 Art History",
+
+        "L2ADS": "Level 2 Design",
+        "L3ADS": "Level 3 Design",
+
+        "L2APA": "Level 2 Painting",
+        "L3APA": "Level 3 Painting",
+
+        "L2APH": "Level 2 Photography",
+        "L3APH": "Level 3 Photography",
+
+        "L2ASC": "Level 2 Sculpture",
+        "L3ASC": "Level 3 Sculpture"
+
+    }
+
+}
