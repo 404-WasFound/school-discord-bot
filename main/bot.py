@@ -97,4 +97,4 @@ async def timetable(ctx):
 
         await ctx.send("Please register first")
 
-bot.run("OTU2NzYwMjMyNTAyMTA0MTM2.Yj06Zw.pps9KpAr2fXxdEu5oVBQHppIaiU")
+bot.run(")
